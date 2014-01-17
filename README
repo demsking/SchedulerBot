@@ -1,0 +1,27 @@
+SchedulerBot - README
+=====================
+
+*** COMPILATION ***
+
+    Veuillez consulter le fichier INSTALL
+
+
+*** Exécution ***
+
+    1. Démarrage de l'anneau
+	Exécuter dans un terminal la commande: 
+	  $ ./start_anneau.sh  #Démarre l’anneau avec une fréquence de 500 ms
+	
+    2. Démarrage du serveur
+	Exécuter dans un terminal la commande: 
+	  $ ./start_server.sh
+	
+    3. Démarrage des robots
+	À partir du répertoire principal, exécuter dans chaque nouveau terminal les commandes: 
+	  $ ./start_robot_1.sh
+	  $ ./start_robot_2.sh
+	  $ ./start_robot_3.sh
+	  $ ./start_robot_4.sh
+	  $ ./start_robot_5.sh
+	  $ ./start_robot_6.sh
+	
