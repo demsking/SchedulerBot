@@ -1,0 +1,14 @@
+SchedulerBot - README
+=====================
+
+*** COMPILATION ***
+  * Méthode 1
+    Exécuter le fichier install.sh
+	$ ./install.sh
+  
+  * Méthode 2
+    1. Ouvrir le terminal et se positionner dans le répertoire du projet
+    2. Ecécuter la commande:
+	$ mkdir run
+	$ mkdir build
+	$ make
